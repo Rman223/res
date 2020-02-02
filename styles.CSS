@@ -1,0 +1,152 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+h1 {
+  margin: 50px auto 0 auto;
+  color: #66BFBF;
+  font-size: 5.62rem;
+  font-family: 'Sacramento', cursive;
+}
+h2 {
+  margin-top: 0;
+  color: #66BFBF;
+  font-size: 2.25rem;
+  font-family: 'Montserrat', sans-serif
+}
+h3 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+}
+hr {
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 10%;
+  margin: 100px auto;
+
+}
+a {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+}
+a:hover {
+  color: #40514e;
+}
+.website-developer {
+  font-weight: normal;
+}
+.web {
+  text-decoration: underline;
+}
+.top-container {
+  background-color: #eaeaea;
+  position: relative;
+  padding-top: 100px;
+
+}
+.bottom-container {
+  background: #eaeaea;
+  position: relative;
+  padding: 50px 0 120px;
+  margin: 50px auto 0;
+}
+.profile-pic {
+  border-radius: 50%;
+}
+.middle-container {
+  margin: 100px 0;
+
+}
+.intro {
+  width: 30%;
+  margin: auto;
+  line-height: 2;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.skills-pic {
+
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.communication {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+.copyright {
+  color: #66BFBF;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+
+}
+
+.contact-me-button {
+	-moz-box-shadow:inset 0px 1px 0px 0px #026c4a;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #026c4a;
+	box-shadow:inset 0px 1px 0px 0px #026c4a;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #11cdd4), color-stop(1, #11999e) );
+	background:-moz-linear-gradient( center top, #11cdd4 5%, #11999e 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#11cdd4', endColorstr='#11999e');
+	background-color:#11cdd4;
+	-webkit-border-top-left-radius:6px;
+	-moz-border-radius-topleft:6px;
+	border-top-left-radius:6px;
+	-webkit-border-top-right-radius:6px;
+	-moz-border-radius-topright:6px;
+	border-top-right-radius:6px;
+	-webkit-border-bottom-right-radius:6px;
+	-moz-border-radius-bottomright:6px;
+	border-bottom-right-radius:6px;
+	-webkit-border-bottom-left-radius:6px;
+	-moz-border-radius-bottomleft:6px;
+	border-bottom-left-radius:6px;
+	text-indent:0;
+	border:1px solid #30e3cb;
+	display:inline-block;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	font-style:normal;
+	height:65px;
+	line-height:65px;
+	width:131px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #287ace;
+}
+.contact-me-button:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #11999e), color-stop(1, #11cdd4) );
+	background:-moz-linear-gradient( center top, #11999e 5%, #11cdd4 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#11999e', endColorstr='#11cdd4');
+	background-color:#11999e;
+}.contact-me-button:active {
+	position:relative;
+	top:1px;
+}
+/* This button was generated using CSSButtonGenerator.com */
